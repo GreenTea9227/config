@@ -1,6 +1,3 @@
 token:
   expiration_time: 864000000
   secret: secretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKeysecretKey
-
-gateway:
-  ip: 182.209.21.246
